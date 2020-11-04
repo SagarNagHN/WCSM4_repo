@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[hi im from maven ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="137" started-at="2020-11-02T05:22:44Z" finished-at="2020-11-02T05:22:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="137" started-at="2020-11-02T05:22:44Z" finished-at="2020-11-02T05:22:44Z">
+      <class name="com.actitime.tests.DemoMaven">
+        <test-method status="PASS" signature="demoM()[pri:0, instance:com.actitime.tests.DemoMaven@523884b2]" name="demoM" duration-ms="48" started-at="2020-11-02T10:52:44Z" finished-at="2020-11-02T10:52:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[hi im from maven ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demoM -->
+      </class> <!-- com.actitime.tests.DemoMaven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
